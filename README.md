@@ -71,7 +71,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img
 align = "left" 
-height = "100"
+height = "140"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peugusto&theme=tokyonight&layout=compact&langs_count=7&&custom_title=Tecnologias" />
 
 
