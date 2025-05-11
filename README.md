@@ -1,4 +1,4 @@
-# 👨‍💻 Pedro Augusto
+# Pedro Augusto
 
 **`Desenvolvedor Front-End`**
 
