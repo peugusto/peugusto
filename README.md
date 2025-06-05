@@ -1,8 +1,6 @@
-# Pedro Augusto
+**`Console.write("Pedro Augusto")`**
 
-**`Desenvolvedor Front-End`**
-
-Me chamo Pedro Augusto, tenho 21 anos e sou natural do Rio de Janeiro. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Atualmente, curso Sistemas de Informação, onde venho aprimorando minhas habilidades e explorando diferentes áreas do desenvolvimento.
+Me chamo Pedro Augusto, tenho 21 anos. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Atualmente, curso Sistemas de Informação, onde venho aprimorando minhas habilidades e explorando diferentes áreas do desenvolvimento.
 
 ---
 
