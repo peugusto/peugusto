@@ -1,6 +1,6 @@
 **`Console.write("Pedro Augusto")`**
 
-Me chamo Pedro Augusto, tenho 21 anos. Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Atualmente, curso Sistemas de Informação, onde venho aprimorando minhas habilidades e explorando diferentes áreas do desenvolvimento.
+Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Atualmente, curso Sistemas de Informação, onde venho aprimorando minhas habilidades e explorando diferentes áreas do desenvolvimento.
 
 ---
 
