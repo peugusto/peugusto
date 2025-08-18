@@ -1,4 +1,4 @@
-**`Console.log("Pedro Augusto")`**
+**`console.log("Pedro Augusto")`**
 
 Sou apaixonado por tecnologia e estou sempre em busca de novos desafios e aprendizados. Atualmente, curso Sistemas de Informação, onde venho aprimorando minhas habilidades e explorando diferentes áreas do desenvolvimento.
 
