@@ -49,7 +49,7 @@ title = "PostgreSQL"
 width = "30px"
 style = "padding-right: 20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
+-->
 
 <img
 align = "left" 
@@ -58,7 +58,7 @@ title = "Node.js"
 width = "30px"
 style = "padding-right: 20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-           -->
+           
 
 <br>
 <br>
