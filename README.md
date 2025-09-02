@@ -53,12 +53,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 
 <img
 align = "left" 
-alt = "CSS" 
+alt = "Node.js" 
 title = "Node.js"
 width = "30px"
 style = "padding-right: 20px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
            
+<img
+align = "left" 
+alt = "Express.js" 
+title = "Express.js"
+width = "30px"
+style = "padding-right: 20px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+
 
 <br>
 <br>
